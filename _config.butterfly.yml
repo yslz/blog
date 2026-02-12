@@ -291,8 +291,8 @@ aside:
       text: Follow Me
       link: https://github.com/xxxxxx
   card_announcement:
-    enable: false
-    content: This is my Blog
+    enable: ture
+    content: A Road Beyond Yesterday
   card_recent_post:
     enable: true
     # If set 0 will show all
